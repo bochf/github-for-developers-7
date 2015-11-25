@@ -1,3 +1,3 @@
 # bio
-Josh Chen
+name:           Josh Chen
 favorite color: blue
